@@ -1,8 +1,8 @@
 {
 
     "apiUrl" : "https://admin.gomovies.ma/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.soap2daytv.streammoviestvshows",
     "NetworkAds" : "applovin"
     
 }
