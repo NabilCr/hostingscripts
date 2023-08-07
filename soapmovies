@@ -1,8 +1,8 @@
 {
 
     "apiUrl" : "https://admin.gomovies.ma/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.rivotostreaming.moviestvshows",
     "NetworkAds" : "applovin"
     
 }
