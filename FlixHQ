@@ -1,8 +1,8 @@
 {
 
     "apiUrl" : "https://easyplex.cf/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.flixhq.flixmovies",
     "NetworkAds" : "applovin"
     
 }
